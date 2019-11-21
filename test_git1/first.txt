@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 hiii
 hello
+=======
+From git source
+we are here to help you!!
+Do u need any help?
+>>>>>>> branch2
