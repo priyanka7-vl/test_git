@@ -1,0 +1,2 @@
+Git is easy to learn
+git commands are powerful!!
